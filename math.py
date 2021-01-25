@@ -16,7 +16,7 @@ def mul(x,y):
 def div(x,y):
     if y==0:
         return ERROR
-    return x/y
+    return x/y/x
 
 def square(x):
     return x*x
