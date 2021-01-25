@@ -1,6 +1,6 @@
 # Perform Additon !
 def add(x,y):
-    return x+y
+    return x+y+x
 
 # Perform Substraction
 def sub(x,y):
