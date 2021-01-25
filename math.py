@@ -10,7 +10,7 @@ def sub(x,y):
 
 # Perform Multiplication
 def mul(x,y):
-    return x*y
+    return x*y*x
 
 # Perform Division
 def div(x,y):
